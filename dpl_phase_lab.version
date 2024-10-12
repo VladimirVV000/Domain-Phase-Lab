@@ -1,10 +1,13 @@
 {
 	"masterVersionFile":"https://raw.githubusercontent.com/VladimirVV000/Domain-Phase-Lab/main/dpl_phase_lab.version",
 	"modName":"Domain Phase Lab",
-	"modThreadId":TBD,
+	"modThreadId":29337,
 	"modVersion":
-	{},
+	{
+		"major":1,
+		"minor":6,
+		"patch":0,
+	},
 	"starsectorVersion":"0.97a-RC11",
-	"directDownloadURL":"https://github.com/VladimirVV000/Domain-Phase-Lab/blob/main/Domain%20Phase%20Lab.zip",
-	"changelogURL":""
+	"directDownloadURL":"https://github.com/VladimirVV000/Domain-Phase-Lab/raw/refs/heads/main/Domain%20Phase%20Lab.zip",
 }
